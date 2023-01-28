@@ -1,0 +1,4 @@
+﻿  pch.cpp
+C:\0. My Game\0. GameServerProject\GameServer\GameServer\pch.h(1,9): warning C4068: 알 수 없는 pragma 'onece'
+  GameServer.cpp
+  GameServer.vcxproj -> C:\0. My Game\0. GameServerProject\GameServer\Binary\Debug\GameServer.exe
